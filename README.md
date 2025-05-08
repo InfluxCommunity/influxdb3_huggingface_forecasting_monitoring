@@ -153,5 +153,5 @@ MIT
 
 - InfluxData for InfluxDB 3
 - Hugging Face for model hosting
-- PyTorch and TensorFlow for deep learning frameworks
+- PyTorch deep learning frameworks
 - Streamlit for the web interface
